@@ -1,6 +1,11 @@
 ## Lumensalis on Github 
 
-Welcome to the Luminsalis Github Organization
+Welcome to the [Lumensalis](https://www.lumensalis.com) Github Organization, the home for Lumensalis project repos within Github
+
+For information on Lumensalis, please refer to our website at https://www.lumensalis.com.  The source for the website is
+actually in a repo under this organization, but its much easier to view an navigate from the website.
+
+Currently, the reccomended forum for discussion is the Lumensalis Discord server, here's an [invite](https://discord.gg/22EStXpkh8)
 
 <!--
 
